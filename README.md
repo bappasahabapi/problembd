@@ -2,7 +2,7 @@
 
 This project is licensed under the [GNU General Public License v3.0](./LICENSE).
 
-<div align="center">
+
 <div align="center">
 	<h1>ProblemBD</h1>
 	<h3>🇧🇩 A curated collection of interview questions from Bangladeshi tech companies.</h3>
