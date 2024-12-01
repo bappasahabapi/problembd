@@ -3,21 +3,27 @@
 This project is licensed under the [GNU General Public License v3.0](./LICENSE).
 
 <div align="center">
+<div align="center">
 	<h1>ProblemBD</h1>
 	<h3>🇧🇩 A curated collection of interview questions from Bangladeshi tech companies.</h3>
 	<p>
-		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/stars/bappasahabapi/problembd?style=for-the-badge" alt="GitHub stars"></a>
-		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/forks/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub forks"></a>
-		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/contributors/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub contributors"></a>
+		<a href="https://github.com/bappasahabapi/problembd">
+			<img src="https://img.shields.io/github/stars/bappasahabapi/problembd?style=for-the-badge" alt="GitHub stars">
+		</a>
+		<a href="https://github.com/bappasahabapi/problembd">
+			<img src="https://img.shields.io/github/forks/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub forks">
+		</a>
+		<a href="https://github.com/bappasahabapi/problembd">
+			<img src="https://img.shields.io/github/contributors/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub contributors">
+		</a>
 		<a href="https://github.com/bappasahabapi/problembd/blob/main/LICENSE">
-  <img src="https://img.shields.io/github/license/bappasahabapi/problembd?style=for-the-badge" alt="License"> </a>
-</a>
-
-    </p>
-    <h3>📚 Questions and answers can be found at <a href="https://github.com/bappasahabapi/problembd">ProblemBD</a></h3>
-    <p> ⭐ Show your support by starring this repository!</p>
-
+			<img src="https://img.shields.io/github/license/bappasahabapi/problembd?style=for-the-badge" alt="License">
+		</a>
+	</p>
+	<h3>📚 Questions and answers can be found at <a href="https://github.com/bappasahabapi/problembd">ProblemBD</a></h3>
+	<p>⭐ Show your support by starring this repository!</p>
 </div>
+
 
 ---
 
