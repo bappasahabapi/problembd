@@ -71,4 +71,5 @@ If you like the work, please head over to the original creator and editor and sh
 
 
 ![Visitor Counter](https://profile-counter.glitch.me/problembd.vercel.app/count.svg)
-@ Inspired by তামিম ভাই .
+
+@ Inspired by তানিম ভাই .
