@@ -11,7 +11,10 @@ This project is licensed under the [GNU General Public License v3.0](./LICENSE).
 		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/stars/bappasahabapi/problembd?style=for-the-badge" alt="GitHub stars"></a>
 		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/forks/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub forks"></a>
 		<a href="https://github.com/bappasahabapi/problembd"><img src="https://img.shields.io/github/contributors/bappasahabapi/problembd?logoColor=green&style=for-the-badge" alt="GitHub contributors"></a>
-		<a href="https://github.com/bappasahabapi/problembd/blob/main/LICENSE"><img src="https://img.shields.io/github/license/bappasahabapi/problembd?style=for-the-badge" alt="License"></a>
+		<a href="https://github.com/bappasahabapi/problembd/blob/main/LICENSE">
+  <img src="https://img.shields.io/github/license/bappasahabapi/problembd?style=for-the-badge" alt="License">
+</a>
+
 	</p>
 	<h3>📚 Questions and answers can be found at <a href="https://github.com/bappasahabapi/problembd">ProblemBD</a></h3>
 	<p> ⭐ Show your support by starring this repository!</p>
@@ -71,4 +74,4 @@ If you like the work, please head over to the original creator and editor and sh
 
 
 ![Visitor Counter](https://profile-counter.glitch.me/problembd.vercel.app/count.svg)
-@ Inspired by তামিম ভাই .
+@ Inspired by তানিম ভাই .
