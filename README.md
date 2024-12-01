@@ -71,8 +71,8 @@ The owner tries to check every questions and answer contributed from others. Som
 If you like the work, please head over to the original creator and editor and show some appreciation by giving a ⭐ star to them. Thank you.
 
 ![Visitor Counter](https://profile-counter.glitch.me/problembd.vercel.app/count.svg)
-<<<<<<< HEAD
-=======
 
-> > > > > > > c3a599879b2db76c171ce6195a83232915def748
-> > > > > > > @ Inspired by তানিম ভাই .
+
+
+
+@ Inspired by তানিম ভাই .
